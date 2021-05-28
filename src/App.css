@@ -1,5 +1,7 @@
 .CenterText {
   text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 .RResize {
   width: 50%;
@@ -19,8 +21,8 @@
   background-color: silver;
 }
 .textFill{
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 .App-logo {
