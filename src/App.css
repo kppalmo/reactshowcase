@@ -1,5 +1,17 @@
-.App {
+.CenterText {
   text-align: center;
+}
+.RResize {
+  width: 50%;
+  height: auto;
+}
+.Resize{
+  width:50%;
+}
+.CenterImg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .App-logo {
@@ -27,6 +39,7 @@
 .App-link {
   color: #61dafb;
 }
+
 
 @keyframes App-logo-spin {
   from {
