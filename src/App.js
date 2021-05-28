@@ -14,6 +14,7 @@ class App extends React.Component{
         </row>  
         <row>
           <TxtTest/>
+          <h1 class="CenterText">More Example Work</h1>
         </row>
       </Container>
     )

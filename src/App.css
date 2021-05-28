@@ -8,6 +8,7 @@
 .Resize{
   width:50%;
 }
+
 .CenterImg{
   display: block;
   margin-left: auto;
@@ -16,6 +17,10 @@
 }
 .bg{
   background-color: silver;
+}
+.textFill{
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 .App-logo {

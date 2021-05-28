@@ -5,7 +5,7 @@ export const TxtTest = props => {
 
     return(
 
-        <p>
+        <div class="CenterText textFill" >
             Lorem Ipsum is simply dummy text of the printing and 
             typesetting industry. Lorem Ipsum has been the industry's 
             standard dummy text ever since the 1500s, when an unknown 
@@ -16,7 +16,7 @@ export const TxtTest = props => {
             containing Lorem Ipsum passages, and more recently with desktop 
             publishing software like Aldus PageMaker including versions of Lorem 
             Ipsum.
-        </p>
+        </div>
 
 
     );
