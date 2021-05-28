@@ -9,7 +9,5 @@ export const ImgTest = props => {
             <h1 class="CenterText">The Above Is My Home</h1>
         </div>
         
-
-        
     );
 };
